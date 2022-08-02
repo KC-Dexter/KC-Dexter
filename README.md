@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 
 [![Kartavya's Github stats](https://github-readme-stats.vercel.app/api?username=KC-Dexter&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
-</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KC-Dexter)](https://github.com/anuraghazra/github-readme-stats)
