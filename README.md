@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
-
-
-[![Kartavya's Github stats](https://github-readme-stats.vercel.app/api?username=KC-Dexter&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KC-Dexter)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">GitHub Analytics &nbsp;</h2>
+<p align="center">
+<a href="https://github.com/KC-Dexter">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KC-Dexter&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KC-Dexter&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=KC-Dexter&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
