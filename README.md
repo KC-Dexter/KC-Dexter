@@ -1,6 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Kartavya Chauhan, a Developer 🚀 from INDIA![IndianFlagWavingGIF](https://user-images.githubusercontent.com/68866177/182305440-c29d05dc-096a-407c-910e-c9dc7542882f.gif)
-.
+## Hi, I'm Kartavya Chauhan, a Developer 🚀 from INDIA!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -29,5 +28,8 @@ Here are some ideas to get you started:
 
 
 [![Kartavya's Github stats](https://github-readme-stats.vercel.app/api?username=KC-Dexter&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KC-Dexter)](https://github.com/anuraghazra/github-readme-stats)
