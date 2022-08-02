@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Kartavya Chauhan, a Developer 🚀 from INDIA!
+## Hi, I'm Kartavya Chauhan, a Programmer and Developer 🚀 from INDIA!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -28,8 +28,8 @@ You can use the website to generate badges: https://shields.io/
   <img src="https://img.shields.io/badge/SkLearn-4cb582.svg?&style=flat-round&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-d48626.svg?&style=flat-round&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-c43d33.svg?&style=flat-round&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-round&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-round&logo=netlify&logoColor=white"/>
  </h3>
  
 
