@@ -1,7 +1,7 @@
 
 <!-- Your title -->
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Kartavya Chauhan, a Programmer and Developer 🚀 from INDIA!
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center">
+<h2 align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></h2>
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
