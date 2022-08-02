@@ -1,7 +1,7 @@
 
 <!-- Your title -->
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Kartavya Chauhan, a Programmer and Developer 🚀 from INDIA!
-<img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif">
+<img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" align="center">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -34,7 +34,13 @@ You can use the website to generate badges: https://shields.io/
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-round&logo=netlify&logoColor=white"/>
  </h3>
  
-
+<h3 align="center">Additional
+ <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-round&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-round&logo=css3"/>
+ <img src="https://img.shields.io/badge/MySQL-e8a951?style=flat-round&logo=mysql&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Git/Github-8c1b50?style=flat-round&logo=git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MongoDB-d642db?style=flat-round&logo=mongodb&logoColor=white"/>
+</h3>
 
 
 <!--
