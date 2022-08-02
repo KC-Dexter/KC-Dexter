@@ -4,20 +4,22 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
+
+
 [![GitHub KC-Dexter](https://img.shields.io/github/followers/KC-Dexter?label=follow&style=social)](https://github.com/KC-Dexter)
 ![](https://komarev.com/ghpvc/?username=KC-Dexter&color=blueviolet)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kartavya-chauhan-1549821a1/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&eight=20)](https://www.instagram.com/__31_chauhan_03__/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=20](mailto:kartavyachauhan2019@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-round&logo=instagram&logoColor=white)](https://www.instagram.com/__31_chauhan_03__/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-round&logo=gmail&logoColor=white](mailto:kartavyachauhan2019@gmail.com)
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&height=20](https://leetcode.com/KC-Dexter007/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-round&logo=LeetCode&logoColor=black](https://leetcode.com/KC-Dexter007/)
 
 
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <h3 align="center"> Languages:
- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/C-00599C?style=flat-round&logo=c&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-round&logo=c%2B%2B&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-round&logo=java&logoColor=white" height="20"/>
  <img src="https://img.shields.io/badge/Javascript-yellow.svg?&style=flat-round&logo=javascript&logoColor=white"/>
  <img src="https://img.shields.io/badge/SQL-black?style=flat-round&logo=mysql&logoColor=white"/>
 </h3>
