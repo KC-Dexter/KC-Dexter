@@ -5,7 +5,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45">
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45">Connect with me:
 
 [![GitHub KC-Dexter](https://img.shields.io/github/followers/KC-Dexter?label=follow&style=social)](https://github.com/KC-Dexter)
 ![](https://komarev.com/ghpvc/?username=KC-Dexter&color=blueviolet)
