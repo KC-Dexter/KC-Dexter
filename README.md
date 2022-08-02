@@ -4,8 +4,8 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]([https://github.com/KC-Dexter])
+[![GitHub Abhishek-Dobliyal](https://img.shields.io/github/followers/KC-Dexter?label=follow&style=social)](https://github.com/KC-Dexter)
+![](https://komarev.com/ghpvc/?username=KC-Dexter&color=blueviolet)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kartavya-chauhan-1549821a1/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/__31_chauhan_03__/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kartavyachauhan2019@gmail.com)
