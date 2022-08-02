@@ -10,6 +10,9 @@ You can use the website to generate badges: https://shields.io/
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/__31_chauhan_03__/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kartavyachauhan2019@gmail.com)
 
+
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+
 <!--
 **KC-Dexter/KC-Dexter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,3 +34,10 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KC-Dexter)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=KC-Dexter&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
+</p> 
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=KC-Dexter&theme=redical">
+</p> 
