@@ -1,11 +1,11 @@
 <!-- Your title -->
-## Hi, I'm Kartavya Chauhan, a Programmer and Developer 🚀 from INDIA!
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Kartavya Chauhan, a Programmer and Developer 🚀 from INDIA!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45">
 [![GitHub KC-Dexter](https://img.shields.io/github/followers/KC-Dexter?label=follow&style=social)](https://github.com/KC-Dexter)
 ![](https://komarev.com/ghpvc/?username=KC-Dexter&color=blueviolet)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kartavya-chauhan-1549821a1/)
